@@ -156,19 +156,19 @@ Newyork-Airbnb-Listing-Analysis
 ## How to Run the Project
 1 Clone the repository
 
-git clone https://RitikDevrani/Newyork_AirBnb_Listing_Analysis.git
+    git clone https://RitikDevrani/Newyork_AirBnb_Listing_Analysis.git
 
 2 Navigate to the project folder
 
-cd Newyork-Airbnb-Listing-Analysis
+    cd Newyork-Airbnb-Listing-Analysis
 
 3 Install required libraries
 
-pip install pandas numpy matplotlib seaborn
+    pip install pandas numpy matplotlib seaborn
 
 4 Run the notebook
 
-jupyter notebook
+    jupyter notebook
 
 Open Newyork_AirBnb_Listing_Analysis.ipynb and run the cells.
 
